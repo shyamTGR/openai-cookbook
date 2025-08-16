@@ -1,0 +1,6 @@
+site_name: OpenAI Cookbook
+site_dir: site
+docs_dir: docs/build
+nav: []
+theme:
+  name: material
