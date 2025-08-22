@@ -1,0 +1,23 @@
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  margin: 0 2rem;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  color: #111;
+}
+
+.codehilite {
+  background: #2e3440;
+  color: #f8f8f2;
+  padding: 0.75rem;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+.codehilite pre {
+  margin: 0;
+}
